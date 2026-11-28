@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elasle.github.io/filter-charger-finder/sitemap.xml
